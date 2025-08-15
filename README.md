@@ -1,4 +1,4 @@
-# 📝 Online Quiz App
+# Online Quiz App
 
 This console-based Quiz App, built with Java 17+, is designed to help you practice collections, control flow, and user-driven design. It showcases Java features like ArrayList, switch expressions, methods, and basic OOP to create a fun and flexible quiz platform—with Admin features to add/delete questions.
 
