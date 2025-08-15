@@ -69,7 +69,8 @@ java QuizApp
 - Attempts quiz using current questions, displays score and feedback.
 
 **Flowchart Overview:**  
-![Flowchart]([images/myphoto.jpg](https://github.com/Burhan-21/Quiz-App/blob/main/QuizApp/Flow%20chart%20Of%20Quiz%20App.png))
+![Flowchart](https://raw.githubusercontent.com/Burhan-21/Quiz-App/main/QuizApp/Flow%20chart%20Of%20Quiz%20App.png)
+
 
 
 ---
